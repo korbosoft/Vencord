@@ -148,7 +148,6 @@ export const Languages = {
     "su": "Sundanese",
     "sw": "Swahili",
     "sv": "Swedish",
-    "tl": "Tagalog (Filipino)",
     "tg": "Tajik",
     "ta": "Tamil",
     "tt": "Tatar",
